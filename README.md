@@ -1,3 +1,13 @@
+<p>
+    <img src="https://seeklogo.com/images/J/java-logo-CE0198242E-seeklogo.com.png" alt="Java" width="200"/>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="Junit5" width="200"/>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src="https://assertj.github.io/doc/images/assertj-db_icon.png" alt="AssertJ" width="350"/>
+    &nbsp&nbsp&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="200"/>
+</p>
+
 # Java 21 + JUnit 5 + AssertJ: Quick Start Maven Archetype
 
 Maven archetype to create a quick start project configured for Java 21, Junit 5 and AssertJ.
