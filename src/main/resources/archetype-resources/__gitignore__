@@ -1,0 +1,35 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Compiled and temporarily generated files
+/target
+dependency-reduced-pom.xml
+
+# Jetbrains IntelliJ specific files
+.idea
+*.iml
+
+# Visual Studio Code specific files
+.vscode
+.settings
+.project
+*.code-workspace
+
+# Jenv file for specifying the project java version
+.java-version
