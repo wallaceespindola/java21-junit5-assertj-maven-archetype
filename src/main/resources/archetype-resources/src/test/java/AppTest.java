@@ -1,4 +1,4 @@
-package $
+package ${package};
 
 import org.junit.jupiter.api.Test;
 
@@ -20,6 +20,6 @@ public class AppTest {
         String test = "test";
         assertNotNull(test, "String value should not be null");
         assertFalse(test.isEmpty(), "String value should not be empty");
-        assertTrue(test.equals("test")), "Strings must be equal");
+        assertEquals("test", test, "Strings must be equal");
     }
 }
