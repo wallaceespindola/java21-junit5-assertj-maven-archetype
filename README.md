@@ -18,7 +18,7 @@ When the archetype has been installed locally you can create a project using the
  mvn archetype:generate -DarchetypeGroupId=com.wtech.archetypes \
                         -DarchetypeArtifactId=java21-junit5-assertj-maven-archetype \
                         -DarchetypeVersion=1.0.0-SNAPSHOT \
-                        -DgroupId=com.wtech.a-test-project \
+                        -DgroupId=com.wtech.app \
                         -DartifactId=a-test-project \
                         -Dversion=1.0.0-SNAPSHOT \
                         -DinteractiveMode=false
