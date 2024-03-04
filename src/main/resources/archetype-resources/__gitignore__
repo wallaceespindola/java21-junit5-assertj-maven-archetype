@@ -21,10 +21,6 @@ replay_pid*
 /target
 dependency-reduced-pom.xml
 
-# Jetbrains IntelliJ specific files
-.idea
-*.iml
-
 # Visual Studio Code specific files
 .vscode
 .settings
@@ -33,3 +29,31 @@ dependency-reduced-pom.xml
 
 # Jenv file for specifying the project java version
 .java-version
+
+# Gradle
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Eclipse
+.classpath
+.settings/
+.project
+bin/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+*.uml
+.shelf
+.idea/
+out/
+
+# Misc
+*.graphml
+
+# Mac
+.DS_Store
