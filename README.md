@@ -1,11 +1,11 @@
 <p>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="Java" width="300"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="Java" width="150"/>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="Junit5" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="Junit5" width="150"/>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <img src="https://assertj.github.io/doc/images/assertj-db_icon.png" alt="AssertJ" width="350"/>
+    <img src="https://assertj.github.io/doc/images/assertj-db_icon.png" alt="AssertJ" width="250"/>
     &nbsp&nbsp&nbsp
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="150"/>
 </p>
 
 # Java 21 + JUnit 5 + AssertJ: Quick Start Maven Archetype
