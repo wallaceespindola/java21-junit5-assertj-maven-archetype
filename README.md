@@ -1,5 +1,5 @@
 <p>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="Java" width="200"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="Java" width="300"/>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="Junit5" width="200"/>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
