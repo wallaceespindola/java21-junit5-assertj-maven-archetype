@@ -10,6 +10,13 @@
 
 # Java 21 + JUnit 5 + AssertJ: Quick Start Maven Archetype
 
+![Apache 2.0 License](https://img.shields.io/badge/License-Apache2.0-orange)
+![Java](https://img.shields.io/badge/Built_with-Java-blue)
+![Junit5](https://img.shields.io/badge/Built_with-Junit5-teal)
+![AssertJ](https://img.shields.io/badge/Powered_by-AssertJ-pink)
+![Hamcrest](https://img.shields.io/badge/Powered_by-Hamcrest-purple)
+![Maven](https://img.shields.io/badge/Powered_by-Maven-green)
+
 Maven archetype to create a quick start project configured for Java 21, Junit 5 and AssertJ.
 
 ## Install archetype in local repository
@@ -44,13 +51,14 @@ When the archetype has been installed locally you can create a project using the
 
 ## Author
 
-* Wallace Espindola, Sr. Software Engineer / Java & Python Dev
-* E-mail: wallace.espindola@gmail.com
-* LinkedIn: https://www.linkedin.com/in/wallaceespindola/
-* Website: https://wtechitsolutions.com/
+- Wallace Espindola, Sr. Software Engineer / Java & Python Dev
+- E-mail: wallace.espindola@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wallaceespindola/
+- Gravatar: https://gravatar.com/wallacese
+- Website: https://wtechitsolutions.com/
 
 ## License
 
-* This project is released under the Apache 2.0 License. See the [LICENSE](https://github.com/wallaceespindola/java21-junit5-assertj-maven-archetype/blob/master/LICENSE) file for details.
-* Copyright © 2024 [Wallace Espindola](https://github.com/wallaceespindola/).
+- This project is released under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
+- Copyright © 2024 [Wallace Espindola](https://github.com/wallaceespindola/).
 
